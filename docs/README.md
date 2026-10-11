@@ -2,8 +2,7 @@
 
 ## Общее описание
 
-**Geometric Lib** — простая библиотека на *Python* для вычисления
-площади и периметра геометрических фигур.
+**Geometric Lib** — лабараторная на *Python* для вычисления площади и периметра геометрических фигур.
 
 > Каждая фигура описана в отдельном модуле. Функции принимают
 > числовые параметры и возвращают результат вычислений.
@@ -81,3 +80,19 @@ import triangle
 triangle.area(4, 3)          # 6.0
 triangle.perimeter(3, 4, 5)  # 12
 ```
+
+## История изменений
+
+| Хеш коммита | Описание |
+|---|---|
+| `657afdd` | add README.md |
+| `b7e1492` | add functions description to docs |
+| `9593b9e` | add general description to docs |
+| `46858af` | add docs to triangle.py |
+| `2ed2208` | add docs to rectangle.py |
+| `de79e33` | add docs to square.py |
+| `60bc848` | add docs to circle.py |
+| `d25e3ab` | add triangle.py and fix rectangle.py |
+| `00dc1e3` | add rectangle.py |
+| `d078c8d` | L-03: Docs added |
+| `8ba9aeb` | L-03: Circle and square added |

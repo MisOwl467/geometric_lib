@@ -1,6 +1,6 @@
 # Geometric Lib
 
-Библиотека на Python для вычисления **площади** и **периметра** геометрических фигур.
+Лабараторная на Python для вычисления **площади** и **периметра** геометрических фигур.
 
 ## Состав проекта
 
@@ -8,20 +8,6 @@
 - `square.py` — квадрат
 - `rectangle.py` — прямоугольник
 - `triangle.py` — треугольник
-
-## Быстрый старт
-
-```bash
-git clone https://github.com/MisOwl467/geometric_lib.git
-cd geometric_lib
-python3
-```
-
-```python
->>> import rectangle
->>> rectangle.area(2, 3)
-6
-```
 
 ## Документация
 
